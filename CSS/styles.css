@@ -9,7 +9,7 @@ body{
 }
 .headshot{
   float: right;
-  width: 27%;
+  width: 30%;
   height: auto;
   margin-bottom: 50px;
 }
@@ -25,6 +25,7 @@ h4{
 
 .student{
   text-align: center;
+  margin: 15px;
 }
 
 #greyed{
@@ -41,4 +42,15 @@ h4{
 
 h3{
   margin-top: 50px;
+  text-decoration: underline;
+}
+
+.contact{
+  margin-bottom: 40px;
+}
+
+.outer{
+  border-style: dotted;
+  border-width: medium;
+  margin-top: 25px;
 }
