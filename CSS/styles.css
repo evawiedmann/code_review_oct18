@@ -8,15 +8,22 @@ body{
   margin-right: 25px;
 }
 
-.headshot2{
-height: 350px;
-margin-left: 25px;
+img.headshot2{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 300px;
 }
 .name{
 text-align: center;
+font-size: 80px;
 /* font-family: monospace; */
 }
 
-h3{
+h4{
+  text-align: center;
+}
+
+.student{
   text-align: center;
 }
