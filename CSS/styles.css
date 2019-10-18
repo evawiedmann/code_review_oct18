@@ -1,12 +1,13 @@
 body{
   font-family: monospace;
   font-size: 17px;
+  margin-right: 45px;
+  margin-left: 45px;
 }
 .headshot{
   float: right;
   width: 25%;
   height: auto;
-  margin-right: 25px;
 }
 
 img.headshot2{
@@ -16,9 +17,8 @@ img.headshot2{
   height: 300px;
 }
 .name{
-text-align: center;
-font-size: 80px;
-/* font-family: monospace; */
+  text-align: center;
+  font-size: 80px;
 }
 
 h4{
@@ -27,4 +27,12 @@ h4{
 
 .student{
   text-align: center;
+}
+
+#greyed{
+  color: gray;
+}
+
+.underheader{
+  margin-top: 50px;
 }
