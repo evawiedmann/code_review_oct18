@@ -46,6 +46,7 @@ h3{
 }
 
 .contact{
+  text-indent: 2em;
   margin-bottom: 40px;
 }
 
@@ -53,4 +54,9 @@ h3{
   border-style: dotted;
   border-width: medium;
   margin-top: 25px;
+}
+
+.about{
+  text-indent: 2em;
+  margin-right: 450px;
 }
