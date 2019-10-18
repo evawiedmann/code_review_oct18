@@ -1,5 +1,22 @@
+body{
+  font-family: monospace;
+}
 .headshot{
   float: right;
   width: 25%;
   height: auto;
+  margin-right: 25px;
+}
+
+.headshot2{
+height: 350px;
+margin-left: 25px;
+}
+.name{
+text-align: center;
+/* font-family: monospace; */
+}
+
+h3{
+  text-align: center;
 }

@@ -6,7 +6,7 @@
 
 ## Description
 
-_This webpage is a professional portfolio landing page for Eva Wiedmann._
+_This webpage is a professional portfolio landing page for Eva Wiedmann. Sections include: About Me, Interests._
 
 ## Setup/Installation Requirements
 
